@@ -24,7 +24,7 @@ In this scenario, Meta (formerly Facebook) has been seeing a decline in the time
 
 With the recent surge in popularity of Virtual Reality chat rooms, such as Meta's Horizon Worlds, there have been more people using online avatars in live chats. However, emotional expression is lost as these avatars cannot currently retain a static expression chosen upon creation, and do not actively reflect the emotional states of users. With this disconnect of emotion to expression, users are more distant from each-other, less engaged with content, and therefore, less loyal to a particular service. 
 
-Our firm believes that by creating a model that can perform audio emotion tracking, we can map the resulting emotional readings to the each player's avatar. By mapping the results to game characters, we can increase engagement from user to user and foster a greater sense of community within the platform, and therefore build greater customer loyalty.
+We believe that by creating a model that can perform audio emotion tracking, we can map the resulting emotional readings to the each player's avatar. By mapping the results to game characters, we can increase engagement from user to user and foster a greater sense of community within the platform, and therefore build greater customer loyalty.
 
 
 ## Data Understanding
@@ -84,12 +84,11 @@ Possible future improvements:
 
 
 ## Repo Navigation 
-├──[ images/ ](https://github.com/njw27/SER_Capstone/tree/main/images) <------------------------------------Directrory of all images Used For Project <br> 
-├──[ models_pkls/ ](https://github.com/njw27/SER_Capstone/tree/main/model_pkls) <------------------------------ Directrory of all `.pkl` files from modeling <br> 
-├──[ .gitignore ](https://github.com/njw27/SER_Capstone/blob/main/.gitignore) <---------------------------------- Git Ignore for Project Repo  <br> 
-├──[ README.md ](https://github.com/njw27/SER_Capstone/blob/main/README.md) < ------------------------------ README.md that you are currently reading <br>
-├──[ SER_Notebook.pdf ](https://github.com/njw27/SER_Capstone/blob/main/SER_Notebook.pdf) <------------------------ PDF of Final Jupyter Notebook  <br> 
-├──[ SER_Notebook.ipynb ](https://github.com/njw27/SER_Capstone/blob/main/SER_Notebook.ipynb) <---------------------- Final Project Jupyter Notebook <br>
-├──[ SER_Presentation.pdf ](https://github.com/njw27/SER_Capstone/blob/main/SER_Presentation.pdf) <--------------------- PDF of Project Presentation <br>
+├──[ images/ ]<------------------------------------Directory of all images Used For Project <br> 
+├──[ models_pkls/ ] <------------------------------ Directory of all `.pkl` files from modeling <br> 
+├──[ .gitignore ] <---------------------------------- Git Ignore for Project Repo  <br> 
+├──[ README.md ] < ------------------------------ README.md that you are currently reading <br>
+├──[ SER_Notebook.ipynb ] <---------------------- Final Project Jupyter Notebook <br>
+
 
 
